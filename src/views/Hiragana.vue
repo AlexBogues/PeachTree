@@ -8,7 +8,7 @@
             </span>
             <div class="FlashCard__Buttons">
                 <button class="FlashCard__Buttons__Button" @click.stop="Prev()" :disabled="CurrentPosition == 0">←</button>
-                <button class="FlashCard__Buttons__Button" @click.stop="Next()" :disabled="CurrentPosition == Hiragana.length - 1">→</button>
+                <button class="FlashCard__Buttons__Button" @click.stop="Next()" :disabled="CurrentPosition == BasicHiragana.length - 1">→</button>
             </div>
         </li>
     </ul>
@@ -17,6 +17,7 @@
 <script lang="ts">
     import { defineComponent } from "vue";
     import { ShuffleArray } from "../Library/Shuffle"
+    import Hiragana from "../assets/Hiragana.json"
 
     export default defineComponent({
         name: "Hiragana",
@@ -24,66 +25,15 @@
             return {
                 CurrentPosition: 0,
                 IsShowAnswer: false,
-                Hiragana: [
-                    {
-                        "Romaji": "a",
-                        "Character": "あ",
-                        "IsSelected": false,
-                    },
-                    {
-                        "Romaji": "i",
-                        "Character": "い",
-                        "IsSelected": false,
-                    },
-                    {
-                        "Romaji": "u",
-                        "Character": "う",
-                        "IsSelected": false,
-                    },
-                    {
-                        "Romaji": "e",
-                        "Character": "え",
-                        "IsSelected": false,
-                    },
-                    {
-                        "Romaji": "o",
-                        "Character": "お",
-                        "IsSelected": false,
-                    },
-                    {
-                        "Romaji": "ka",
-                        "Character": "か",
-                        "IsSelected": false,
-                    },
-                    {
-                        "Romaji": "ki",
-                        "Character": " き",
-                        "IsSelected": false,
-                    },
-                    {
-                        "Romaji": "ku",
-                        "Character": "く",
-                        "IsSelected": false,
-                    },
-                    {
-                        "Romaji": "ke",
-                        "Character": "け",
-                        "IsSelected": false,
-                    },
-                    {
-                        "Romaji": "ko",
-                        "Character": "こ",
-                        "IsSelected": false,
-                    },
-                ]
+                BasicHiragana: Hiragana.Base,
             }
         },
         mounted() {
-            this.Hiragana = ShuffleArray(this.Hiragana)
+            this.BasicHiragana = ShuffleArray(this.BasicHiragana)
         },
         methods: {
             ActiveCharacter() {
-                return this.Hiragana[this.CurrentPosition]
+                return this.BasicHiragana[this.CurrentPosition]
             },
             ShowAnswer() {
                 this.IsShowAnswer = !this.IsShowAnswer
@@ -94,7 +44,7 @@
                 }
             },
             Next() {
-                if (this.CurrentPosition != this.Hiragana.length -1) {
+                if (this.CurrentPosition != this.BasicHiragana.length -1) {
                     this.CurrentPosition++
                 }
             }

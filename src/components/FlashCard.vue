@@ -1,7 +1,7 @@
 <template>
-    <article class="FlashCard">
+    <li>
         {{ Option.Character }}
-    </article>
+    </li>
 </template>
 
 <script lang="ts">
@@ -14,16 +14,5 @@ export default defineComponent({
 </script>
 
 <style>
-    .FlashCard {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        border: 1px solid grey;
-        padding: .5rem;
-        margin: .5rem;
-        border-radius: .5rem;
-        height: 15rem;
-        width: 25rem;
-        font-size: 8rem;
-    }
+    
 </style>

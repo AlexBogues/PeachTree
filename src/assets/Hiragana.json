@@ -1,0 +1,534 @@
+[
+    {
+        "Base": [
+            {
+                "Romaji": "a",
+                "Character": "あ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "i",
+                "Character": "い",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "u",
+                "Character": "う",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "e",
+                "Character": "え",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "o",
+                "Character": "お",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "ka",
+                "Character": "か",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "ki",
+                "Character": " き",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "ku",
+                "Character": "く",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "ke",
+                "Character": "け",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "ko",
+                "Character": "こ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "sa",
+                "Character": "さ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "shi",
+                "Character": "し",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "su",
+                "Character": "す",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "se",
+                "Character": "せ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "so",
+                "Character": "そ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "ta",
+                "Character": "た",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "chi",
+                "Character": "ち",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "tsu",
+                "Character": "つ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "te",
+                "Character": "て",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "to",
+                "Character": "と",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "na",
+                "Character": "な",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "ni",
+                "Character": "に",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "nu",
+                "Character": "ぬ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "ne",
+                "Character": "ね",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "no",
+                "Character": "の",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "ha",
+                "Character": "は",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "hi",
+                "Character": "ひ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "fu",
+                "Character": "ふ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "he",
+                "Character": "へ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "ho",
+                "Character": "ほ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "ma",
+                "Character": "ま",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "mi",
+                "Character": "み",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "mu",
+                "Character": "む",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "me",
+                "Character": "め",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "mo",
+                "Character": "も",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "ya",
+                "Character": "や",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "yu",
+                "Character": "ゆ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "yo",
+                "Character": "よ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "ra",
+                "Character": "ら",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "ri",
+                "Character": "り",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "ru",
+                "Character": "る",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "re",
+                "Character": "れ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "ro",
+                "Character": "ろ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "wa",
+                "Character": "わ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "wo",
+                "Character": "を",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "n",
+                "Character": "ん",
+                "IsSelected": false
+            }
+        ]
+    },
+    {
+        "Dakuon": [
+            {
+                "Romaji": "ga",
+                "Character": "が",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "gi",
+                "Character": "ぎ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "gu",
+                "Character": "ぐ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "ge",
+                "Character": "げ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "go",
+                "Character": "ご",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "za",
+                "Character": "ざ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "zi",
+                "Character": "じ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "zu",
+                "Character": "ず",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "ze",
+                "Character": "ぜ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "zo",
+                "Character": "ぞ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "da",
+                "Character": "だ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "di",
+                "Character": "ぢ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "du",
+                "Character": "づ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "de",
+                "Character": "で",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "do",
+                "Character": "ど",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "ba",
+                "Character": "ば",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "bi",
+                "Character": "び",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "bu",
+                "Character": "ぶ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "be",
+                "Character": "べ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "bo",
+                "Character": "ぼ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "pa",
+                "Character": "ぱ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "pi",
+                "Character": "ぴ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "pu",
+                "Character": "ぷ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "pe",
+                "Character": "ぺ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "po",
+                "Character": "ぽ",
+                "IsSelected": false
+            }
+        ]
+    },
+    {
+        "Combo": [
+            {
+                "Romaji": "kya",
+                "Character": "きゃ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "kyu",
+                "Character": "きゅ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "kyo",
+                "Character": "きょ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "gya",
+                "Character": "ぎゃ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "gyu",
+                "Character": "ぎゅ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "gyo",
+                "Character": "ぎょ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "sha",
+                "Character": "しゃ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "shu",
+                "Character": "しゅ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "sho",
+                "Character": "しょ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "jya",
+                "Character": "じゃ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "jyu",
+                "Character": "じゅ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "jyo",
+                "Character": "じょ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "cha",
+                "Character": "ちゃ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "chu",
+                "Character": "ちゅ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "cho",
+                "Character": "ちょ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "nya",
+                "Character": "にゃ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "nyu",
+                "Character": "にゅ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "nyo",
+                "Character": "にょ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "hya",
+                "Character": "ひゃ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "hyu",
+                "Character": "ひゅ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "hyo",
+                "Character": "ひょ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "bya",
+                "Character": "びゃ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "byu",
+                "Character": "びゅ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "byo",
+                "Character": "びょ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "pya",
+                "Character": "ぴゃ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "pyu",
+                "Character": "ぴゅ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "pyo",
+                "Character": "ぴょ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "mya",
+                "Character": "みゃ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "myu",
+                "Character": "みゅ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "myo",
+                "Character": "みょ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "rya",
+                "Character": "りゃ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "ryu",
+                "Character": "りゅ",
+                "IsSelected": false
+            },
+            {
+                "Romaji": "ryo",
+                "Character": "りょ",
+                "IsSelected": false
+            }
+        ]
+    }
+]
